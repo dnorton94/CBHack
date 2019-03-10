@@ -1,0 +1,120 @@
+What would you like to donate?
+Coffee
+
+Which store?
+Starbucks
+
+Which charity would you like to support?
+Children In Need
+
+Confirm by pressing Enter:
+
+
+Scan QR code of the recipient:
+
+Found: Joe Bloggs 
+
+
+Donor exchanges £ for Cambridge Coin from Bank:
+
+Sending bitcoin from donor to bank:
+Response from Luno API:
+200: Successfully sent bitcoin!
+
+Response from TodaQ API:
+200: Successfully created cambridge_coin
+
+Bank transfers cambridge coin from bank to merchant:
+Response from TodaQ API:
+200: Successfully transferred!
+
+
+Recipient walks to merchant: |¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦| 100.0% Complete
+
+Recipient arrives at merchant and presents ID to merchant:
+
+Found: Joe Bloggs 
+
+Response from TodaQ API:
+200: Successfully created coffee
+Brewing a delicious coffee! |¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦| 100.0% Complete
+
+Transferring coffee to recipient:
+Response from TodaQ API:
+200: Successfully transferred!
+
+**Short pause to allow transactions to complete**
+
+Merchant sends Cambridge Coin to bank and charity in return for £:
+Response from TodaQ API:
+200: Successfully transferred!
+
+Sending bitcoin from bank to merchant:
+Response from Luno API:
+200: Successfully sent bitcoin!
+
+Sending bitcoin from bank to charity:
+Response from Luno API:
+200: Successfully sent bitcoin!
+
+
+runfile('C:/Users/Fin/Desktop/Hackathon/XUwithLuno.py', wdir='C:/Users/Fin/Desktop/Hackathon')
+
+What would you like to donate?
+
+
+Which store?
+
+
+Which charity would you like to support?
+
+
+Confirm by pressing Enter:
+
+
+Scan QR code of the recipient:
+
+Found: Joe Bloggs 
+
+
+Donor exchanges £ for Cambridge Coin from Bank:
+
+Sending bitcoin from donor to bank:
+Response from Luno API:
+200: Successfully sent bitcoin!
+
+Response from TodaQ API:
+200: Successfully created cambridge_coin
+
+Bank transfers cambridge coin from bank to merchant:
+Response from TodaQ API:
+200: Successfully transferred!
+
+
+Recipient walks to merchant: |¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦| 100.0% Complete
+
+Recipient arrives at merchant and presents ID to merchant:
+
+Found: Joe Bloggs 
+
+Response from TodaQ API:
+200: Successfully created coffee
+Brewing a delicious coffee! |¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦¦| 100.0% Complete
+
+Transferring coffee to recipient:
+Response from TodaQ API:
+200: Successfully transferred!
+
+**Short pause to allow transactions to complete**
+
+Merchant sends Cambridge Coin to bank and charity in return for £:
+Response from TodaQ API:
+200: Successfully transferred!
+
+Sending bitcoin from bank to merchant:
+Response from Luno API:
+200: Successfully sent bitcoin!
+
+Sending bitcoin from bank to charity:
+Response from Luno API:
+200: Successfully sent bitcoin!
